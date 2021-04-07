@@ -1,0 +1,78 @@
+h1{
+
+	font color: #000000 ;
+	font-size: 200% ;
+}
+
+header{
+
+	text-align: center;
+	margin: 2%;
+}
+
+header,footer{
+	background: #76D7C4;
+	background: linear-gradient(#76D7C4 0%,#229954 100%);
+}
+
+h1{
+
+	/*color: #000000;*/
+}
+
+nav{
+
+	font-variant: small-caps;
+	font-size: 150%;
+
+	font-family: Arial, "Time New Roman", serif;
+}
+nav{
+
+	color: #000000 ;
+	padding: 10px;
+}
+nav a{
+	width: 22%;
+	display: inline-block;
+	background-color: #FFFFFF;
+}
+h2{
+	background: #EE82EE ;
+	color: #666666;
+}
+
+section{
+	width: 30% ;
+	display: inline-block;
+	float: left;
+	margin-left:  2%;
+}
+
+.half{
+	width: 45%;
+	float: both;
+}
+
+.whole{
+	clear: both;
+	width: 95%;
+}
+
+details{
+	font-style: italic;
+}
+
+summary{
+	font-style: normal;
+}
+
+footer{
+	
+	margin: 2%; 
+	clear: both;
+}
+
+img{
+	width: 85px;
+}
